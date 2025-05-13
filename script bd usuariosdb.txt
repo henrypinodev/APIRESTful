@@ -1,0 +1,8 @@
+// BD: usuariosdb
+// USER: admin
+// password: 
+/* no entendi lo del script porque se esta utilizando hibernate y se estan creando ahí mismo,
+en cualquier caso dejo un select para consultar en H2 por los usuarios despues de enviar una request post */ 
+
+SELECT * FROM USERS 
+

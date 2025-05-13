@@ -1,0 +1,27 @@
+REQUEST A  http://localhost:8082/api/register
+
+{
+  "email": "pedropascal@urss.cl",
+  "password": "123454",
+  "name": "pedro pascal",
+  "phones": [
+    {
+      "number": "3554",
+      "citycode": "1",
+      "contrycode": "57"
+    }
+  ]
+}
+
+{
+  "email": "tomasalbert@urss.cl",
+  "password": "rrr343",
+  "name": "tomas alberto",
+  "phones": [
+    {
+      "number": "3554",
+      "citycode": "4",
+      "contrycode": "13"
+    }
+  ]
+}
