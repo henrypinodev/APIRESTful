@@ -1,0 +1,6 @@
+Utilicé Java 17, la coretto que esta en maven central
+Springboot 3.3.11
+Tomcat embebido 
+BD H2 embebido
+JJWT: 0.11.2
+Junit: no implementé pruebas unitarias.
